@@ -19,3 +19,4 @@ h1.style.fontSize = '100px';
 // getElementsByClassName -> HTML Collection
 const p1 = document.getElementsByClassName('p1');
 p1[0].innerHTML = 'Ini Saya Lho ya.. ';
+
