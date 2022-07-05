@@ -21,8 +21,12 @@ body {
     margin: 20px;
     position: relative;
     text-align: center;
+
 }
 
+.card a {
+    text-decoration: none;
+}
 .card img {
     float: left;
     margin: 0 10px 0 -80px;
